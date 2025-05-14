@@ -1,2 +1,3 @@
-# exercicio_poo_heren-a
-exercicio de poo
+# exercicio_poo
+exercicio de poo: herança
+esquema de um banco
